@@ -1,8 +1,7 @@
 👋 Olá! Eu sou o Bruno Barbosa
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-💡 Apaixonado por tecnologia, aprendizado constante e resolver problemas de forma criativa.
-🚀 Atualmente focado em fortalecer minha lógica de programação e me desenvolver em Python e Java.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, aprendizado constante e resolver problemas de forma criativa.
+ Atualmente focado em fortalecer minha lógica de programação e me desenvolver em Python e Java.
 
 🔧 Tecnologias & Ferramentas que uso/estudo:
 
