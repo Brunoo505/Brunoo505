@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Olá! Eu sou o Bruno Barbosa
 
-<!--
-**Brunoo505/Brunoo505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+💡 Apaixonado por tecnologia, aprendizado constante e resolver problemas de forma criativa.
+🚀 Atualmente focado em fortalecer minha lógica de programação e me desenvolver em Python e Java.
 
-Here are some ideas to get you started:
+🔧 Tecnologias & Ferramentas que uso/estudo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linguagens: Python, Java
+
+Ferramentas: Git & GitHub, VS Code, IntelliJ
+
+Interesses: Desenvolvimento backend, boas práticas, clean code, automação e sistemas inteligentes
+
+🌱 Sobre mim
+
+Curioso por natureza, sempre explorando novas soluções e formas de melhorar meu desempenho.
+Gosto de evoluir um pouco todos os dias — técnica, mentalidade e organização.
+Busco oportunidades e desafios que me façam crescer profissionalmente e como pessoa.
+
+📈 O que estou buscando
+
+Aprofundar conhecimento em lógica e estrutura de dados
+
+Projetos para praticar e evoluir
+
+Conexões com pessoas da área de tecnologia
