@@ -14,7 +14,7 @@ Interesses: Desenvolvimento backend, boas práticas, clean code, automação e s
 🌱 Sobre mim:
 
 Curioso por natureza, sempre explorando novas soluções e formas de melhorar meu desempenho.
-Gosto de evoluir um pouco todos os dias — técnica, mentalidade e organização.
+Evoluir todos os dias, técnica, mentalidade e organização.
 Busco oportunidades e desafios que me façam crescer profissionalmente e como pessoa.
 
 📈 O que estou buscando:
